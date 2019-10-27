@@ -10,4 +10,4 @@ This is a small test to check the basic understand of machine learning developed
     - 2.3) artificial neural network with cross validation
 - 3) table results and comments  
 
-![results](https://user-images.githubusercontent.com/11545292/67636072-5c1cd400-f8ab-11e9-84b9-b4954dd07623.PNG)
+![results2](https://user-images.githubusercontent.com/11545292/67637283-c2a7ef00-f8b7-11e9-936d-453e2fd4664e.PNG)
